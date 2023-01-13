@@ -1,6 +1,6 @@
 FROM ubuntu:latest
 
-ENV D_VERSION=ldc-1.30.0
+ENV D_VERSION=ldc-1.26.0
 ENV BIN_FOLDER=bin
 ENV LIB_FOLDER=lib
 ENV DEBIAN_FRONTEND=noninteractive
